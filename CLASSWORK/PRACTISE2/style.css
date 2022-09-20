@@ -1,0 +1,16 @@
+a[target] {
+    background-color: violet;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+    margin: 5px;
+}
+
+a[target="_blank"]{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+    margin: 5px;
+
+}
